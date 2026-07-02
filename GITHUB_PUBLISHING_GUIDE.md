@@ -14,9 +14,7 @@
    - Future enhancements roadmap
    - Author information
 
-2. **LICENSE** (MIT License)
-   - Standard MIT license text
-   - Replace [Your Name] and year as needed
+
 
 3. **.env.example** (Configuration template)
    - All required environment variables
@@ -106,10 +104,6 @@ final-year-project
 (Leave blank unless you have a hosted demo or portfolio page)
 ```
 
-### License
-```
-MIT License
-```
 
 ---
 
@@ -253,8 +247,7 @@ This is an educational project. Contributions are welcome!
 ### 🚀 Getting Started
 See [README.md](./README.md) for installation and usage instructions
 
-### 📝 License
-MIT License - See [LICENSE](./LICENSE) file
+
 
 ### 👨‍💻 Author
 [Your Name] - Final Year Project / Portfolio
