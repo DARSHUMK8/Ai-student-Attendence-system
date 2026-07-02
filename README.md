@@ -137,12 +137,9 @@ Detailed visual walkthroughs can be found in PROJECT_SCREENSHOTS.md.
 ---
 
 ## 👨‍💻 Author
-**[Bhadraiah meda]**
-- **Degree:** B.Tech in Computer Science & Engineering [aiml]
-- **GitHub:** @bhadraiahmeda
-- **LinkedIn:** [https://www.linkedin.com/in/meda-bhadraiah-23a6483b1/]
+**[Darshan MK]**
+- **Degree:** B.Tech in Computer Science & Engineering [cse]
+- **GitHub:**https://github.com/DARSHUMK8        
+- **LinkedIn:** [https://www.linkedin.com/in/darshan-mk-15588a37a/]  
 
 ---
-
-## 📝 License
-Distributed under the MIT License. See `LICENSE` for more information.
