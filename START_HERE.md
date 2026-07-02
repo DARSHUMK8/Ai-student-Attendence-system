@@ -4,7 +4,6 @@
 
 ```
 ✅ README_GITHUB.md          → Rename to README.md (2500+ word documentation)
-✅ LICENSE                   → MIT License (keep as is)
 ✅ .gitignore_NEW            → Rename to .gitignore (security rules)
 ✅ .env.example              → Config template (keep as is)
 ✅ requirements_FINAL.txt    → Rename to requirements.txt (dependencies)
@@ -20,7 +19,6 @@
 
 ### **STEP 1: Rename 3 Files** (2 min)
 ```powershell
-cd c:\Users\BHADRI\OneDrive\Desktop\ai-smart-attendance-system
 mv README_GITHUB.md README.md
 mv .gitignore_NEW .gitignore
 mv requirements_FINAL.txt requirements.txt
@@ -274,7 +272,6 @@ All documentation is professional-grade and should impress:
 
 **Package Created:** January 2025  
 **Version:** 1.0.0  
-**License:** MIT
 
 ### 👉 START HERE: GITHUB_PUBLISHING_GUIDE.md
 
