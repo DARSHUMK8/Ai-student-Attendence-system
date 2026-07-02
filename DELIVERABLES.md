@@ -58,8 +58,6 @@
 
 ### **Step 1: Rename Files (Before Publishing)**
 ```powershell
-# On Windows PowerShell
-cd c:\Users\BHADRI\OneDrive\Desktop\ai-smart-attendance-system
 
 # Rename
 mv README_GITHUB.md README.md
@@ -216,7 +214,6 @@ Enable:
 
 ### **For GitHub:**
 - ✅ Professional README (2500+ words)
-- ✅ MIT License
 - ✅ Clean .gitignore
 - ✅ Pinned dependencies
 - ✅ Configuration template
@@ -245,7 +242,6 @@ Enable:
 | File | Size | Type |
 |------|------|------|
 | README_GITHUB.md | ~35 KB | Documentation |
-| LICENSE | ~1 KB | Legal |
 | .gitignore_NEW | ~3 KB | Config |
 | .env.example | ~2 KB | Config |
 | requirements_FINAL.txt | ~1 KB | Dependencies |
