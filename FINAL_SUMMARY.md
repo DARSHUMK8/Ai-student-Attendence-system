@@ -7,7 +7,6 @@
 |------|---------|----------|
 | **README.md** | Professional project documentation | `README_GITHUB.md` |
 | **.env.example** | Configuration template (safe for commit) | `.env.example` |
-| **LICENSE** | MIT License text | `LICENSE` |
 | **requirements.txt** | Python dependencies (pinned versions) | `requirements_FINAL.txt` |
 | **GITHUB_CHECKLIST.md** | Pre-publication security & quality checklist | `GITHUB_CHECKLIST.md` |
 | **GITHUB_PUBLISHING_GUIDE.md** | Step-by-step publishing instructions | `GITHUB_PUBLISHING_GUIDE.md` |
@@ -31,8 +30,6 @@ Description: AI-powered Smart Attendance Management System using Face Recognitio
 
 Topics: python, flask, opencv, face-recognition, machine-learning, 
         computer-vision, attendance-system, sqlite, ai, final-year-project
-
-License: MIT
 Visibility: Public
 ```
 
@@ -266,8 +263,7 @@ AI-powered Smart Attendance Management System using Face Recognition, Flask, Ope
 
 ### ✅ Use These Names on GitHub
 ```
-README.md              ← Main documentation
-LICENSE                ← License file
+README.md              ← Main documentationLICENSE                ← License file
 .gitignore             ← Git ignore rules
 .env.example           ← Config template (safe)
 requirements.txt       ← Python dependencies
@@ -426,7 +422,6 @@ All documentation files have been created and are ready for GitHub publication.
 **Status: ✅ READY FOR GITHUB PUBLICATION**
 
 **Created:** January 2025  
-**Version:** 1.0.0  
-**License:** MIT
+**Version:** 1.0.0 
 
 🚀 Good luck with your portfolio project!
