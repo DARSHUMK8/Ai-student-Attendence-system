@@ -12,11 +12,6 @@
    - Author & license information
    - **Action:** Rename to `README.md` before publishing
 
-2. ✅ **LICENSE** 
-   - MIT License (industry standard)
-   - Replace [Your Name] with your actual name
-   - **Action:** Keep as is, optional year update
-
 3. ✅ **.env.example**
    - Configuration template (safe for commit)
    - All required environment variables
@@ -394,7 +389,7 @@ You've built an impressive AI Smart Attendance System. This documentation packag
 
 **Created:** January 2025  
 **Version:** 1.0.0  
-**License:** MIT
+
 
 Good luck with your portfolio! 🚀
 
